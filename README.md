@@ -44,8 +44,8 @@ $ python Run.py
 ### Why does it fail on login?
 
 - The account cannot be in free mode or logged out.
-- You entered the wrong facebook cookie.
 - You must obtain page cookies through the desktop site or **"https://web.facebook.com"**.
+- You entered the wrong facebook cookies.
 
 ### Post link requirements?
 
