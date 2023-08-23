@@ -20,9 +20,9 @@
 [**Sharing**](https://github.com/RozhakXD/Sharing) is a script to get lots of shares on a Facebook post in bulk or spam. This script uses page cookies to login and share posts.
 
 ### Termux command?
-You can download the [Termux](https://f-droid.org/repo/com.termux_118.apk) application first, then enter the command into the Termux application.
-
 You can also see how to use this script on my [**Youtube**](https://youtube.com/rozhakid).
+
+The way you have to download the [Termux](https://f-droid.org/repo/com.termux_118.apk) application is then enter all the commands in the Termux application.
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
