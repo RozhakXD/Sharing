@@ -22,7 +22,7 @@
 ### Termux command?
 You can also see how to use this script on my [**Youtube**](https://youtube.com/rozhakid).
 
-The way you have to download the [Termux](https://f-droid.org/repo/com.termux_118.apk) application is then enter all the commands in the Termux application.
+Download the [Termux](https://f-droid.org/repo/com.termux_118.apk) application then enter all commands in the Termux application.
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
