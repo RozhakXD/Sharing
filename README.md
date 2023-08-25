@@ -42,6 +42,7 @@ $ python Run.py
 - If you use a Facebook page, make sure the page is the latest version.
 - Accounts or Pages cannot be in free mode.
 - You have to use a fake account or a new account to login.
+- Facebook page uses "Indonesian Language".
 
 ### Why does it fail on login?
 
